@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files\\arduino-nightly\\tools\\**",
+                "C:\\Program Files\\arduino-nightly\\hardware\\arduino\\avr\\**",
+                "C:\\Program Files\\arduino-nightly\\libraries\\Arduino-IRremote-2.1.0\\**",
+                "C:\\Program Files\\arduino-nightly\\hardware\\tools\\avr\\avr\\include\\**",
+                "C:\\Program Files\\arduino-nightly\\hardware\\tools\\avr\\lib\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Program Files\\arduino-nightly\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+               ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,5 @@
+{
+    "sketch": "turnSignal_topSiren_combine.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
